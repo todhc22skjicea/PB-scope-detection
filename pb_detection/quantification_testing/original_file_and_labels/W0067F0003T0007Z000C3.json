@@ -1,0 +1,4708 @@
+{
+  "version": "4.5.13",
+  "flags": {},
+  "shapes": [
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1174.0,
+          1085.0
+        ],
+        [
+          1178.0,
+          1089.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1052.0,
+          1024.0
+        ],
+        [
+          1056.0,
+          1028.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          932.0,
+          1074.0
+        ],
+        [
+          935.0,
+          1078.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          946.0,
+          1161.0
+        ],
+        [
+          949.0,
+          1165.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1279.0,
+          421.0
+        ],
+        [
+          1283.0,
+          424.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1291.0,
+          991.0
+        ],
+        [
+          1293.0,
+          994.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1038.0,
+          1018.0
+        ],
+        [
+          1042.0,
+          1022.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          861.0,
+          1074.0
+        ],
+        [
+          864.0,
+          1076.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1028.0,
+          1126.0
+        ],
+        [
+          1032.0,
+          1130.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          818.0,
+          1114.0
+        ],
+        [
+          821.0,
+          1118.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1178.0,
+          1233.0
+        ],
+        [
+          1182.0,
+          1237.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1237.0,
+          515.0
+        ],
+        [
+          1241.0,
+          518.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1062.0,
+          1243.0
+        ],
+        [
+          1064.0,
+          1245.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          858.0,
+          1061.0
+        ],
+        [
+          861.0,
+          1064.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          898.0,
+          990.0
+        ],
+        [
+          901.0,
+          993.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          775.0,
+          669.0
+        ],
+        [
+          778.0,
+          672.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          944.0,
+          780.0
+        ],
+        [
+          947.0,
+          783.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          999.0,
+          810.0
+        ],
+        [
+          1002.0,
+          812.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1100.0,
+          1183.0
+        ],
+        [
+          1104.0,
+          1187.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          910.0,
+          1200.0
+        ],
+        [
+          913.0,
+          1202.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1276.0,
+          522.0
+        ],
+        [
+          1280.0,
+          525.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1156.0,
+          1232.0
+        ],
+        [
+          1160.0,
+          1236.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1001.0,
+          1136.0
+        ],
+        [
+          1004.0,
+          1138.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          907.0,
+          566.0
+        ],
+        [
+          910.0,
+          569.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          775.0,
+          909.0
+        ],
+        [
+          778.0,
+          912.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          896.0,
+          540.0
+        ],
+        [
+          899.0,
+          543.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1067.0,
+          1240.0
+        ],
+        [
+          1069.0,
+          1242.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1031.0,
+          1230.0
+        ],
+        [
+          1033.0,
+          1232.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          955.0,
+          1078.0
+        ],
+        [
+          958.0,
+          1080.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          968.0,
+          1106.0
+        ],
+        [
+          971.0,
+          1108.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          970.0,
+          1097.0
+        ],
+        [
+          973.0,
+          1099.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          980.0,
+          836.0
+        ],
+        [
+          983.0,
+          839.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1050.0,
+          1014.0000000000001
+        ],
+        [
+          1052.0,
+          1017.0000000000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          940.0,
+          471.0
+        ],
+        [
+          943.0,
+          474.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          759.0,
+          776.0
+        ],
+        [
+          762.0,
+          779.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          731.0,
+          1021.0
+        ],
+        [
+          734.0,
+          1023.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          949.0,
+          835.0
+        ],
+        [
+          952.0,
+          838.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          961.0,
+          552.0
+        ],
+        [
+          964.0,
+          555.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1040.0,
+          986.0
+        ],
+        [
+          1042.0,
+          989.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          961.0,
+          586.0
+        ],
+        [
+          964.0,
+          589.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          965.0,
+          772.0
+        ],
+        [
+          968.0,
+          775.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          757.0,
+          938.0
+        ],
+        [
+          760.0,
+          941.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1185.0,
+          1213.0
+        ],
+        [
+          1187.0,
+          1215.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          706.0,
+          940.0
+        ],
+        [
+          709.0,
+          943.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          987.0,
+          552.0
+        ],
+        [
+          990.0,
+          555.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          786.0,
+          905.0
+        ],
+        [
+          789.0,
+          908.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          888.0,
+          1190.0
+        ],
+        [
+          891.0,
+          1194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1157.0,
+          1175.0
+        ],
+        [
+          1159.0,
+          1177.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          978.0,
+          769.0
+        ],
+        [
+          981.0,
+          772.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          905.0,
+          1028.0
+        ],
+        [
+          908.0,
+          1030.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          727.0,
+          964.0
+        ],
+        [
+          730.0,
+          967.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1189.0,
+          937.0
+        ],
+        [
+          1191.0,
+          939.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1126.0,
+          953.0
+        ],
+        [
+          1128.0,
+          956.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          880.0,
+          1027.0
+        ],
+        [
+          883.0,
+          1029.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          688.0,
+          731.0
+        ],
+        [
+          691.0,
+          734.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          716.0,
+          1220.0
+        ],
+        [
+          719.0,
+          1222.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          891.0,
+          582.0
+        ],
+        [
+          894.0,
+          585.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1118.0,
+          1158.0
+        ],
+        [
+          1120.0,
+          1160.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          819.0,
+          1121.0
+        ],
+        [
+          822.0,
+          1125.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          957.0,
+          832.0
+        ],
+        [
+          961.0,
+          836.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          721.0,
+          688.0
+        ],
+        [
+          724.0,
+          690.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          983.0,
+          1127.0
+        ],
+        [
+          986.0,
+          1129.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          745.0,
+          682.0
+        ],
+        [
+          748.0,
+          685.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          753.0,
+          681.0
+        ],
+        [
+          756.0,
+          684.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1224.0,
+          405.0
+        ],
+        [
+          1226.0,
+          408.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1171.0,
+          569.0
+        ],
+        [
+          1173.0,
+          572.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          931.0,
+          1209.0
+        ],
+        [
+          934.0,
+          1213.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          876.0,
+          1019.0
+        ],
+        [
+          879.0,
+          1021.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          970.0,
+          800.0
+        ],
+        [
+          973.0,
+          803.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1138.0,
+          1186.0
+        ],
+        [
+          1140.0,
+          1188.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          784.0,
+          1033.0
+        ],
+        [
+          787.0,
+          1035.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          776.0,
+          690.0
+        ],
+        [
+          779.0,
+          693.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          734.0,
+          887.0
+        ],
+        [
+          737.0,
+          890.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1060.0,
+          1025.0
+        ],
+        [
+          1062.0,
+          1027.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          711.2,
+          936.4
+        ],
+        [
+          718.0,
+          944.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          682.0,
+          733.0
+        ],
+        [
+          685.0,
+          736.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1229.0,
+          1142.0
+        ],
+        [
+          1233.0,
+          1146.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          905.0,
+          1200.0
+        ],
+        [
+          908.0,
+          1202.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1180.0,
+          938.0
+        ],
+        [
+          1182.0,
+          941.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          720.0,
+          692.0
+        ],
+        [
+          723.0,
+          695.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          997.0,
+          793.0
+        ],
+        [
+          1000.0,
+          796.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          752.0,
+          906.0
+        ],
+        [
+          755.0,
+          909.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          820.0,
+          1033.0
+        ],
+        [
+          823.0,
+          1035.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          682.0,
+          748.0
+        ],
+        [
+          685.0,
+          750.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          440.0,
+          1769.0
+        ],
+        [
+          443.0,
+          1771.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          751.0,
+          647.0
+        ],
+        [
+          754.0,
+          650.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1186.0,
+          1226.0
+        ],
+        [
+          1188.0,
+          1228.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          891.0,
+          500.99999999999994
+        ],
+        [
+          894.0,
+          503.99999999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          890.0,
+          1195.0
+        ],
+        [
+          893.0,
+          1197.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1185.0,
+          995.0
+        ],
+        [
+          1187.0,
+          998.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          919.0,
+          1091.0
+        ],
+        [
+          922.0,
+          1093.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          937.0,
+          788.0
+        ],
+        [
+          939.0,
+          791.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1005.0,
+          1246.0
+        ],
+        [
+          1008.0,
+          1248.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          779.0,
+          1180.0
+        ],
+        [
+          782.0,
+          1184.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          951.0,
+          1162.0
+        ],
+        [
+          954.0,
+          1164.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          871.0,
+          985.0
+        ],
+        [
+          874.0,
+          988.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          903.0,
+          498.0
+        ],
+        [
+          906.0,
+          500.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          959.0,
+          1198.0
+        ],
+        [
+          962.0,
+          1200.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          959.0,
+          843.0
+        ],
+        [
+          962.0,
+          846.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1170.0,
+          999.0
+        ],
+        [
+          1172.0,
+          1001.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          978.0,
+          538.0
+        ],
+        [
+          981.0,
+          541.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          989.0,
+          985.0
+        ],
+        [
+          992.0,
+          988.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          883.0,
+          985.0
+        ],
+        [
+          886.0,
+          988.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          727.0,
+          951.0
+        ],
+        [
+          730.0,
+          954.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          954.0,
+          1205.0
+        ],
+        [
+          957.0,
+          1207.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1004.0000000000001,
+          1002.0000000000001
+        ],
+        [
+          1007.0000000000001,
+          1005.0000000000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1178.0,
+          1175.0
+        ],
+        [
+          1180.0,
+          1177.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          943.0,
+          1193.0
+        ],
+        [
+          946.0,
+          1195.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          717.0,
+          915.0
+        ],
+        [
+          720.0,
+          918.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1189.0,
+          1215.0
+        ],
+        [
+          1193.0,
+          1219.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          810.0,
+          994.0
+        ],
+        [
+          813.0,
+          997.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          963.0,
+          817.0
+        ],
+        [
+          966.0,
+          820.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1004.0000000000001,
+          1066.0
+        ],
+        [
+          1007.0000000000001,
+          1068.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1011.0,
+          1272.0
+        ],
+        [
+          1014.0,
+          1274.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          754.0,
+          934.0
+        ],
+        [
+          757.0,
+          937.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1263.0,
+          1055.0
+        ],
+        [
+          1265.0,
+          1057.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          985.0,
+          1026.0
+        ],
+        [
+          988.0,
+          1028.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          936.0,
+          514.0
+        ],
+        [
+          938.0,
+          517.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          776.0,
+          898.0
+        ],
+        [
+          779.0,
+          901.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          984.0,
+          547.0
+        ],
+        [
+          987.0,
+          550.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          888.0,
+          996.0
+        ],
+        [
+          891.0,
+          999.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          757.0,
+          662.0
+        ],
+        [
+          760.0,
+          665.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          989.0,
+          1071.0
+        ],
+        [
+          992.0,
+          1073.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          979.0,
+          1092.0
+        ],
+        [
+          982.0,
+          1094.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          794.0,
+          1039.0
+        ],
+        [
+          797.0,
+          1041.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          861.0,
+          1025.0
+        ],
+        [
+          864.0,
+          1027.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          771.0,
+          922.0
+        ],
+        [
+          774.0,
+          925.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          978.0,
+          1086.0
+        ],
+        [
+          981.0,
+          1090.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1008.0000000000001,
+          1034.0
+        ],
+        [
+          1011.0000000000001,
+          1036.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          984.0,
+          532.0
+        ],
+        [
+          987.0,
+          535.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1155.0,
+          543.0
+        ],
+        [
+          1157.0,
+          546.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          706.0,
+          947.0
+        ],
+        [
+          710.0,
+          951.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          805.0,
+          1062.0
+        ],
+        [
+          808.0,
+          1063.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          997.0,
+          1221.0
+        ],
+        [
+          1000.0,
+          1223.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1296.0,
+          999.0
+        ],
+        [
+          1298.0,
+          1002.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          945.0,
+          587.0
+        ],
+        [
+          948.0,
+          590.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1168.0,
+          1225.0
+        ],
+        [
+          1170.0,
+          1227.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1141.0,
+          1192.0
+        ],
+        [
+          1143.0,
+          1194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1111.0,
+          1192.0
+        ],
+        [
+          1113.0,
+          1194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          934.0,
+          1154.0
+        ],
+        [
+          937.0,
+          1156.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          977.0,
+          1024.0
+        ],
+        [
+          980.0,
+          1028.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1017.9999999999999,
+          1013.0
+        ],
+        [
+          1019.9999999999999,
+          1016.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1213.0,
+          990.0
+        ],
+        [
+          1215.0,
+          993.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          736.0,
+          895.0
+        ],
+        [
+          739.0,
+          898.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1026.0,
+          1204.0
+        ],
+        [
+          1028.0,
+          1206.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          928.0,
+          790.0
+        ],
+        [
+          931.0,
+          793.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1147.0,
+          993.0
+        ],
+        [
+          1149.0,
+          996.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          715.0,
+          668.0
+        ],
+        [
+          718.0,
+          671.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          831.0,
+          989.0
+        ],
+        [
+          834.0,
+          992.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1195.0,
+          1105.0
+        ],
+        [
+          1197.0,
+          1107.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1001.0,
+          823.0
+        ],
+        [
+          1004.0,
+          826.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1160.0,
+          1056.0
+        ],
+        [
+          1164.0,
+          1058.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1166.0,
+          468.0
+        ],
+        [
+          1168.0,
+          471.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1031.0,
+          1094.0
+        ],
+        [
+          1035.0,
+          1098.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          894.0,
+          500.0
+        ],
+        [
+          898.0,
+          504.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          719.0,
+          677.0
+        ],
+        [
+          722.0,
+          680.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1160.0,
+          990.0
+        ],
+        [
+          1162.0,
+          993.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1177.0,
+          537.0
+        ],
+        [
+          1179.0,
+          540.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          772.0,
+          938.0
+        ],
+        [
+          775.0,
+          940.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          928.0,
+          1214.0
+        ],
+        [
+          931.0,
+          1216.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          974.0,
+          982.0
+        ],
+        [
+          977.0,
+          985.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          878.0,
+          1105.0
+        ],
+        [
+          881.0,
+          1107.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          691.0,
+          1209.0
+        ],
+        [
+          694.0,
+          1211.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          714.0,
+          1217.0
+        ],
+        [
+          717.0,
+          1221.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          912.0,
+          1179.0
+        ],
+        [
+          915.0,
+          1181.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          963.0,
+          1104.0
+        ],
+        [
+          966.0,
+          1106.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1203.0,
+          1204.0
+        ],
+        [
+          1205.0,
+          1206.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          978.0,
+          822.0
+        ],
+        [
+          981.0,
+          825.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1004.0000000000001,
+          978.0
+        ],
+        [
+          1007.0000000000001,
+          981.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          735.0,
+          633.0
+        ],
+        [
+          738.0,
+          636.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          920.0,
+          1087.0
+        ],
+        [
+          923.0,
+          1089.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          759.0,
+          1046.0
+        ],
+        [
+          762.0,
+          1048.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          941.0,
+          833.0
+        ],
+        [
+          944.0,
+          836.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1031.0,
+          1065.0
+        ],
+        [
+          1033.0,
+          1067.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          798.0,
+          914.0
+        ],
+        [
+          801.0,
+          917.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1149.0,
+          513.0
+        ],
+        [
+          1151.0,
+          516.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1148.0,
+          948.0
+        ],
+        [
+          1150.0,
+          951.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1171.0,
+          1017.0
+        ],
+        [
+          1173.0,
+          1019.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1165.0,
+          1152.0
+        ],
+        [
+          1167.0,
+          1154.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1033.0,
+          1000.0
+        ],
+        [
+          1035.0,
+          1003.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1179.0,
+          754.0
+        ],
+        [
+          1181.0,
+          757.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1344.0,
+          524.0
+        ],
+        [
+          1348.0,
+          527.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          934.0,
+          792.0
+        ],
+        [
+          937.0,
+          795.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          958.0,
+          829.0
+        ],
+        [
+          961.0,
+          832.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          997.0,
+          960.0
+        ],
+        [
+          1000.0,
+          963.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1298.0,
+          1019.9999999999999
+        ],
+        [
+          1300.0,
+          1021.9999999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1014.9999999999999,
+          1130.0
+        ],
+        [
+          1018.9999999999999,
+          1134.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1194.0,
+          726.0
+        ],
+        [
+          1196.0,
+          729.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          918.0,
+          1192.0
+        ],
+        [
+          921.0,
+          1194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1194.0,
+          1210.0
+        ],
+        [
+          1198.0,
+          1212.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1011.0,
+          1076.0
+        ],
+        [
+          1014.0,
+          1080.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          789.0,
+          918.0
+        ],
+        [
+          792.0,
+          921.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          785.0,
+          910.0
+        ],
+        [
+          788.0,
+          913.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          914.0,
+          1160.0
+        ],
+        [
+          918.0,
+          1164.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1217.0,
+          1002.0000000000001
+        ],
+        [
+          1221.0,
+          1005.0000000000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          928.0,
+          803.0
+        ],
+        [
+          931.0,
+          806.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1010.0000000000001,
+          1225.0
+        ],
+        [
+          1013.0000000000001,
+          1227.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1281.0,
+          988.0
+        ],
+        [
+          1283.0,
+          991.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1174.0,
+          981.0
+        ],
+        [
+          1176.0,
+          984.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1142.0,
+          445.0
+        ],
+        [
+          1144.0,
+          448.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          992.0,
+          812.0
+        ],
+        [
+          995.0,
+          814.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          800.0,
+          912.0
+        ],
+        [
+          803.0,
+          915.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1212.0,
+          1025.0
+        ],
+        [
+          1216.0,
+          1029.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          699.0,
+          952.0
+        ],
+        [
+          703.0,
+          955.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1171.0,
+          1230.0
+        ],
+        [
+          1175.0,
+          1234.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          825.0,
+          1117.0
+        ],
+        [
+          828.0,
+          1121.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          999.9999999999999,
+          788.0
+        ],
+        [
+          1001.9999999999999,
+          791.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1069.0,
+          1211.0
+        ],
+        [
+          1073.0,
+          1215.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          975.0,
+          845.0
+        ],
+        [
+          978.0,
+          848.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1036.0,
+          1226.0
+        ],
+        [
+          1038.6,
+          1229.6
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          908.0,
+          1155.0
+        ],
+        [
+          911.0,
+          1157.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1126.0,
+          960.0
+        ],
+        [
+          1128.0,
+          963.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          733.0,
+          920.0
+        ],
+        [
+          736.0,
+          923.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          723.0,
+          1222.0
+        ],
+        [
+          726.0,
+          1226.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          697.0,
+          918.0
+        ],
+        [
+          700.0,
+          921.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          767.0,
+          895.0
+        ],
+        [
+          770.0,
+          898.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          694.0,
+          1227.0
+        ],
+        [
+          697.0,
+          1231.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1231.0,
+          466.0
+        ],
+        [
+          1237.0,
+          471.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          840.6,
+          992.0
+        ],
+        [
+          843.2,
+          995.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1278.4,
+          1026.4
+        ],
+        [
+          1283.0,
+          1031.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          923.0,
+          1138.0
+        ],
+        [
+          926.0,
+          1142.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          967.0,
+          996.0
+        ],
+        [
+          970.0,
+          999.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          863.0,
+          984.0
+        ],
+        [
+          866.0,
+          987.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1154.0,
+          993.0
+        ],
+        [
+          1158.0,
+          996.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1002.0000000000001,
+          1091.0
+        ],
+        [
+          1005.0000000000001,
+          1093.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          875.0,
+          1166.0
+        ],
+        [
+          877.0,
+          1170.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          976.0,
+          1132.0
+        ],
+        [
+          979.0,
+          1136.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1285.0,
+          524.0
+        ],
+        [
+          1289.0,
+          527.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1019.9999999999999,
+          1097.0
+        ],
+        [
+          1021.9999999999999,
+          1099.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          957.0,
+          825.0
+        ],
+        [
+          960.0,
+          828.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1065.0,
+          1213.0
+        ],
+        [
+          1069.0,
+          1217.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          757.0,
+          889.0
+        ],
+        [
+          760.0,
+          892.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1239.0,
+          492.0
+        ],
+        [
+          1243.0,
+          496.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          688.6,
+          695.4
+        ],
+        [
+          694.6,
+          702.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          972.0,
+          1202.0
+        ],
+        [
+          975.0,
+          1206.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          881.0,
+          547.0
+        ],
+        [
+          884.0,
+          550.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          988.2,
+          1198.4
+        ],
+        [
+          996.4,
+          1206.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          988.0,
+          1104.0
+        ],
+        [
+          992.0,
+          1108.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          939.0,
+          777.0
+        ],
+        [
+          942.0,
+          780.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1276.0,
+          1063.0
+        ],
+        [
+          1280.0,
+          1067.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          989.0,
+          990.0
+        ],
+        [
+          992.0,
+          993.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          844.0,
+          1074.0
+        ],
+        [
+          847.0,
+          1078.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          986.0,
+          1159.0
+        ],
+        [
+          989.0,
+          1163.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1002.0000000000001,
+          1270.0
+        ],
+        [
+          1005.0000000000001,
+          1274.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1125.0,
+          440.6
+        ],
+        [
+          1130.0,
+          447.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1175.0,
+          1230.0
+        ],
+        [
+          1179.0,
+          1234.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          794.0,
+          1056.0
+        ],
+        [
+          797.0,
+          1060.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1108.0,
+          1180.0
+        ],
+        [
+          1112.0,
+          1184.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1342.0,
+          509.0
+        ],
+        [
+          1347.4,
+          515.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1183.0,
+          1221.0
+        ],
+        [
+          1187.0,
+          1225.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          883.0,
+          544.0
+        ],
+        [
+          886.0,
+          547.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          989.0,
+          1100.0
+        ],
+        [
+          992.0,
+          1104.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1164.2,
+          577.4
+        ],
+        [
+          1168.6,
+          584.8
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1161.0,
+          1051.0
+        ],
+        [
+          1165.0,
+          1055.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1060.0,
+          1010.0000000000001
+        ],
+        [
+          1063.0,
+          1013.0000000000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1226.2,
+          429.4
+        ],
+        [
+          1231.0,
+          434.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1267.4,
+          987.0
+        ],
+        [
+          1274.0,
+          994.6
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          824.0,
+          1115.0
+        ],
+        [
+          827.0,
+          1117.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          1223.0,
+          1143.0
+        ],
+        [
+          1227.0,
+          1147.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          925.0,
+          815.0
+        ],
+        [
+          928.0,
+          818.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": null,
+      "mask": null,
+      "label": "particle",
+      "points": [
+        [
+          945.0,
+          808.0
+        ],
+        [
+          948.0,
+          811.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "W0067F0003T0007Z000C3.tif",
+  "imageData": "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",
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

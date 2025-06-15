@@ -1,0 +1,4138 @@
+{
+  "version": "4.5.13",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "particle",
+      "points": [
+        [
+          441.0,
+          1771.0
+        ],
+        [
+          444.0,
+          1775.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1778.0,
+          1155.0
+        ],
+        [
+          1782.0,
+          1159.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1742.0,
+          1099.0
+        ],
+        [
+          1746.0,
+          1103.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          601.0,
+          87.0
+        ],
+        [
+          604.0,
+          90.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          67.0,
+          1469.0
+        ],
+        [
+          70.0,
+          1473.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          530.0,
+          1855.0
+        ],
+        [
+          533.0,
+          1857.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          996.0,
+          439.0
+        ],
+        [
+          999.0,
+          442.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1005.0,
+          490.0
+        ],
+        [
+          1008.0,
+          493.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1733.0,
+          1289.0
+        ],
+        [
+          1737.0,
+          1293.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1113.0,
+          668.0
+        ],
+        [
+          1117.0,
+          671.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          532.0,
+          1810.0
+        ],
+        [
+          535.0,
+          1812.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1693.0,
+          1301.0
+        ],
+        [
+          1697.0,
+          1305.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          603.0,
+          119.0
+        ],
+        [
+          606.0,
+          122.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1761.0,
+          1312.0
+        ],
+        [
+          1763.0,
+          1314.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          593.0,
+          920.0
+        ],
+        [
+          596.0,
+          923.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          877.0,
+          312.0
+        ],
+        [
+          880.0,
+          315.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1934.0,
+          1198.0
+        ],
+        [
+          1936.0,
+          1200.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          905.0,
+          365.0
+        ],
+        [
+          908.0,
+          368.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1800.0,
+          1217.0
+        ],
+        [
+          1802.0,
+          1219.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          612.0,
+          938.0
+        ],
+        [
+          615.0,
+          941.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          666.0,
+          86.0
+        ],
+        [
+          669.0,
+          88.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          417.0,
+          1806.0
+        ],
+        [
+          420.0,
+          1808.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          634.0,
+          87.0
+        ],
+        [
+          637.0,
+          90.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1268.0,
+          686.0
+        ],
+        [
+          1270.0,
+          689.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          973.0,
+          412.0
+        ],
+        [
+          976.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1087.0,
+          528.0
+        ],
+        [
+          1091.0,
+          531.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          977.0,
+          426.0
+        ],
+        [
+          980.0,
+          429.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1017.0,
+          509.99999999999994
+        ],
+        [
+          1019.0,
+          513.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          609.0,
+          159.0
+        ],
+        [
+          612.0,
+          162.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          425.0,
+          1801.0
+        ],
+        [
+          428.0,
+          1803.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1742.0,
+          1280.0
+        ],
+        [
+          1744.0,
+          1282.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          644.0,
+          908.0
+        ],
+        [
+          647.0,
+          911.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          434.0,
+          1787.0
+        ],
+        [
+          437.0,
+          1789.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          936.0,
+          317.0
+        ],
+        [
+          939.0,
+          320.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          548.0,
+          810.0
+        ],
+        [
+          551.0,
+          813.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          528.0,
+          1825.0
+        ],
+        [
+          531.0,
+          1827.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          107.0,
+          1550.0
+        ],
+        [
+          110.0,
+          1552.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          650.0,
+          79.0
+        ],
+        [
+          653.0,
+          82.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          10.0,
+          1565.0
+        ],
+        [
+          13.0,
+          1567.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          180.0,
+          1315.0
+        ],
+        [
+          183.0,
+          1317.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1115.0,
+          624.0
+        ],
+        [
+          1119.0,
+          626.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          89.0,
+          1485.0
+        ],
+        [
+          92.0,
+          1489.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1920.0,
+          1203.0
+        ],
+        [
+          1922.0,
+          1205.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          938.0,
+          369.0
+        ],
+        [
+          940.0,
+          372.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1081.0,
+          449.0
+        ],
+        [
+          1083.0,
+          452.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1358.0,
+          1890.0
+        ],
+        [
+          1360.0,
+          1892.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1103.0,
+          523.0
+        ],
+        [
+          1105.0,
+          526.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          632.0,
+          176.0
+        ],
+        [
+          635.0,
+          179.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1649.0,
+          1326.0
+        ],
+        [
+          1651.0,
+          1328.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          942.0,
+          345.0
+        ],
+        [
+          945.0,
+          348.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          605.0,
+          913.0
+        ],
+        [
+          608.0,
+          916.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          92.0,
+          1495.0
+        ],
+        [
+          94.0,
+          1497.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1904.0,
+          1218.0
+        ],
+        [
+          1906.0,
+          1220.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1129.0,
+          499.99999999999994
+        ],
+        [
+          1131.0,
+          502.99999999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          656.0,
+          204.0
+        ],
+        [
+          659.0,
+          207.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          482.0,
+          779.0
+        ],
+        [
+          485.0,
+          782.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          947.0,
+          339.0
+        ],
+        [
+          950.0,
+          341.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          97.0,
+          1480.0
+        ],
+        [
+          100.0,
+          1482.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          68.0,
+          1236.0
+        ],
+        [
+          71.0,
+          1238.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          239.0,
+          1294.0
+        ],
+        [
+          242.0,
+          1296.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1250.0,
+          670.0
+        ],
+        [
+          1252.0,
+          673.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1745.0,
+          1265.0
+        ],
+        [
+          1747.0,
+          1267.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          625.0,
+          217.0
+        ],
+        [
+          628.0,
+          220.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          34.0,
+          1577.0
+        ],
+        [
+          36.0,
+          1579.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1760.0,
+          1281.0
+        ],
+        [
+          1762.0,
+          1283.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1348.0,
+          1839.0
+        ],
+        [
+          1350.0,
+          1841.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          942.0,
+          375.0
+        ],
+        [
+          945.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          121.0,
+          1201.0
+        ],
+        [
+          124.0,
+          1203.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          96.0,
+          1228.0
+        ],
+        [
+          99.0,
+          1230.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          220.0,
+          1270.0
+        ],
+        [
+          223.0,
+          1272.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          577.0,
+          815.0
+        ],
+        [
+          580.0,
+          818.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          82.0,
+          1212.0
+        ],
+        [
+          85.0,
+          1214.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1309.0,
+          628.0
+        ],
+        [
+          1311.0,
+          631.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1271.0,
+          686.0
+        ],
+        [
+          1275.0,
+          688.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1074.0,
+          495.0
+        ],
+        [
+          1076.0,
+          498.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1395.0,
+          1847.0
+        ],
+        [
+          1399.0,
+          1851.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          30.0,
+          1609.0
+        ],
+        [
+          33.0,
+          1611.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          531.0,
+          827.0
+        ],
+        [
+          534.0,
+          830.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          662.0,
+          943.0
+        ],
+        [
+          665.0,
+          946.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1059.0,
+          497.0
+        ],
+        [
+          1061.0,
+          499.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1814.0,
+          1190.0
+        ],
+        [
+          1816.0,
+          1192.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          458.0,
+          1769.0
+        ],
+        [
+          462.0,
+          1773.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1357.0,
+          1818.0
+        ],
+        [
+          1359.0,
+          1820.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1732.0,
+          1296.0
+        ],
+        [
+          1734.0,
+          1298.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1124.0,
+          460.0
+        ],
+        [
+          1126.0,
+          463.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          108.0,
+          1487.0
+        ],
+        [
+          110.0,
+          1489.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1255.0,
+          665.0
+        ],
+        [
+          1259.0,
+          668.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          981.0,
+          473.0
+        ],
+        [
+          984.0,
+          476.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1250.0,
+          642.0
+        ],
+        [
+          1252.0,
+          645.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1305.0,
+          1798.0
+        ],
+        [
+          1307.0,
+          1800.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1283.0,
+          614.0
+        ],
+        [
+          1285.0,
+          617.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          934.0,
+          341.0
+        ],
+        [
+          937.0,
+          344.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          917.0,
+          351.0
+        ],
+        [
+          920.0,
+          354.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1138.0,
+          597.0
+        ],
+        [
+          1142.0,
+          600.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          79.0,
+          1497.0
+        ],
+        [
+          81.0,
+          1499.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1288.0,
+          1809.0
+        ],
+        [
+          1290.0,
+          1811.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          545.0,
+          929.0
+        ],
+        [
+          548.0,
+          932.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          553.0,
+          752.0
+        ],
+        [
+          556.0,
+          755.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          974.0,
+          478.0
+        ],
+        [
+          977.0,
+          481.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1070.0,
+          371.0
+        ],
+        [
+          1072.0,
+          374.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1107.0,
+          527.0
+        ],
+        [
+          1109.0,
+          530.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          497.0,
+          798.0
+        ],
+        [
+          500.0,
+          801.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          34.0,
+          1551.0
+        ],
+        [
+          37.0,
+          1553.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          941.0,
+          331.0
+        ],
+        [
+          944.0,
+          333.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          627.0,
+          964.0
+        ],
+        [
+          630.0,
+          967.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          501.99999999999994,
+          876.0
+        ],
+        [
+          504.99999999999994,
+          879.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          948.0,
+          351.0
+        ],
+        [
+          951.0,
+          354.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          637.0,
+          906.0
+        ],
+        [
+          640.0,
+          909.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1809.0,
+          958.0
+        ],
+        [
+          1811.0,
+          961.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1132.0,
+          479.0
+        ],
+        [
+          1134.0,
+          481.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          647.0,
+          165.0
+        ],
+        [
+          650.0,
+          168.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          624.0,
+          99.0
+        ],
+        [
+          626.0,
+          101.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          498.0,
+          1845.0
+        ],
+        [
+          500.0,
+          1847.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          638.0,
+          227.0
+        ],
+        [
+          641.0,
+          230.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          656.0,
+          151.0
+        ],
+        [
+          659.0,
+          154.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1032.0,
+          434.0
+        ],
+        [
+          1034.0,
+          436.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          663.0,
+          236.0
+        ],
+        [
+          666.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1783.0,
+          1278.0
+        ],
+        [
+          1785.0,
+          1280.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          660.0,
+          189.0
+        ],
+        [
+          663.0,
+          192.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          152.4,
+          1266.4
+        ],
+        [
+          156.0,
+          1271.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1271.0,
+          662.0
+        ],
+        [
+          1273.0,
+          665.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          593.0,
+          141.0
+        ],
+        [
+          596.0,
+          143.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1990.0,
+          194.0
+        ],
+        [
+          1992.0,
+          197.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          548.0,
+          1840.0
+        ],
+        [
+          551.0,
+          1842.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1309.0,
+          641.0
+        ],
+        [
+          1311.0,
+          644.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          600.0,
+          836.0
+        ],
+        [
+          603.0,
+          839.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1181.0,
+          646.0
+        ],
+        [
+          1183.0,
+          649.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          902.0,
+          387.0
+        ],
+        [
+          905.0,
+          390.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          893.0,
+          336.0
+        ],
+        [
+          896.0,
+          339.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1125.0,
+          655.0
+        ],
+        [
+          1127.0,
+          658.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1327.0,
+          1793.0
+        ],
+        [
+          1329.0,
+          1795.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          667.0,
+          169.0
+        ],
+        [
+          670.0,
+          172.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          69.0,
+          1590.0
+        ],
+        [
+          71.0,
+          1592.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1071.0,
+          442.0
+        ],
+        [
+          1073.0,
+          445.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          654.0,
+          212.0
+        ],
+        [
+          657.0,
+          215.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          570.0,
+          847.0
+        ],
+        [
+          573.0,
+          850.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1113.0,
+          514.0
+        ],
+        [
+          1115.0,
+          517.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1062.0,
+          452.0
+        ],
+        [
+          1063.0,
+          454.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1123.0,
+          500.0
+        ],
+        [
+          1125.0,
+          502.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1298.0,
+          651.0
+        ],
+        [
+          1300.0,
+          654.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          521.0,
+          804.0
+        ],
+        [
+          524.0,
+          807.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1269.0,
+          676.0
+        ],
+        [
+          1271.0,
+          679.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          689.0,
+          138.0
+        ],
+        [
+          692.0,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          54.0,
+          1592.0
+        ],
+        [
+          56.0,
+          1594.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          40.0,
+          1613.0
+        ],
+        [
+          42.0,
+          1615.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          103.0,
+          1258.0
+        ],
+        [
+          105.0,
+          1260.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          117.0,
+          1519.0
+        ],
+        [
+          119.0,
+          1521.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1732.0,
+          1158.0
+        ],
+        [
+          1734.0,
+          1160.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          636.0,
+          948.0
+        ],
+        [
+          639.0,
+          951.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          46.0,
+          1589.0
+        ],
+        [
+          48.0,
+          1591.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          23.0,
+          1511.0
+        ],
+        [
+          26.0,
+          1513.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1121.0,
+          676.0
+        ],
+        [
+          1123.0,
+          679.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1989.0,
+          224.0
+        ],
+        [
+          1993.0,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          101.0,
+          1510.0
+        ],
+        [
+          104.0,
+          1514.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          643.0,
+          955.0
+        ],
+        [
+          646.0,
+          958.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          458.0,
+          1810.0
+        ],
+        [
+          460.0,
+          1812.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          111.0,
+          1528.0
+        ],
+        [
+          114.0,
+          1532.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1054.0,
+          483.0
+        ],
+        [
+          1056.0,
+          485.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          18.0,
+          1598.0
+        ],
+        [
+          20.0,
+          1600.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1686.0,
+          1344.0
+        ],
+        [
+          1688.0,
+          1346.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          142.0,
+          1248.0
+        ],
+        [
+          144.0,
+          1250.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1791.0,
+          981.0
+        ],
+        [
+          1795.0,
+          984.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          897.6,
+          306.4
+        ],
+        [
+          902.0,
+          312.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          67.0,
+          1500.0
+        ],
+        [
+          70.0,
+          1502.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          623.0,
+          117.0
+        ],
+        [
+          626.0,
+          120.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          11.0,
+          1569.0
+        ],
+        [
+          13.0,
+          1571.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          679.0,
+          203.0
+        ],
+        [
+          682.0,
+          205.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          475.0,
+          1773.0
+        ],
+        [
+          478.0,
+          1775.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1621.0,
+          1331.0
+        ],
+        [
+          1623.0,
+          1333.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1658.0,
+          1315.0
+        ],
+        [
+          1660.0,
+          1317.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1047.0,
+          401.0
+        ],
+        [
+          1049.0,
+          404.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1021.0,
+          386.0
+        ],
+        [
+          1023.0,
+          389.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          569.0,
+          924.0
+        ],
+        [
+          572.0,
+          927.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1045.0,
+          397.0
+        ],
+        [
+          1049.0,
+          400.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          40.0,
+          1461.0
+        ],
+        [
+          43.0,
+          1463.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1045.0,
+          533.0
+        ],
+        [
+          1048.4,
+          537.8
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          930.0,
+          336.0
+        ],
+        [
+          933.0,
+          338.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          602.0,
+          942.0
+        ],
+        [
+          605.0,
+          945.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1180.0,
+          616.2
+        ],
+        [
+          1185.0,
+          621.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          26.0,
+          1480.0
+        ],
+        [
+          29.0,
+          1482.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          47.0,
+          1522.0
+        ],
+        [
+          49.0,
+          1524.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1081.0,
+          505.0
+        ],
+        [
+          1083.0,
+          507.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          47.0,
+          1539.0
+        ],
+        [
+          50.0,
+          1541.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          49.0,
+          1516.0
+        ],
+        [
+          53.6,
+          1519.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          166.0,
+          1347.0
+        ],
+        [
+          168.0,
+          1349.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1670.0,
+          1264.0
+        ],
+        [
+          1674.0,
+          1268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1142.0,
+          672.0
+        ],
+        [
+          1144.0,
+          675.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1105.0,
+          458.0
+        ],
+        [
+          1107.0,
+          461.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1291.0,
+          663.0
+        ],
+        [
+          1293.0,
+          666.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          665.0,
+          136.0
+        ],
+        [
+          668.0,
+          139.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          598.0,
+          95.0
+        ],
+        [
+          601.0,
+          98.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1749.0,
+          1327.0
+        ],
+        [
+          1751.0,
+          1329.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          179.0,
+          1255.0
+        ],
+        [
+          182.0,
+          1259.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          470.0,
+          1836.0
+        ],
+        [
+          473.0,
+          1838.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          164.0,
+          1293.0
+        ],
+        [
+          167.0,
+          1295.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1376.0,
+          1897.0
+        ],
+        [
+          1378.0,
+          1899.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1247.0,
+          653.0
+        ],
+        [
+          1249.0,
+          656.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1176.0,
+          661.0
+        ],
+        [
+          1178.0,
+          664.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          650.0,
+          234.0
+        ],
+        [
+          653.0,
+          236.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1274.0,
+          1840.0
+        ],
+        [
+          1276.0,
+          1842.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1702.0,
+          1326.0
+        ],
+        [
+          1704.0,
+          1328.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1311.8,
+          656.8
+        ],
+        [
+          1317.8,
+          664.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1988.0,
+          208.0
+        ],
+        [
+          1992.0,
+          212.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1789.0,
+          1299.0
+        ],
+        [
+          1793.0,
+          1303.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          666.0,
+          951.0
+        ],
+        [
+          669.0,
+          954.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1258.0,
+          629.0
+        ],
+        [
+          1260.0,
+          632.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1164.0,
+          601.0
+        ],
+        [
+          1168.0,
+          605.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          85.0,
+          1487.0
+        ],
+        [
+          88.0,
+          1491.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1908.0,
+          1279.0
+        ],
+        [
+          1910.0,
+          1281.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          654.0,
+          167.0
+        ],
+        [
+          657.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          618.0,
+          102.0
+        ],
+        [
+          621.0,
+          105.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1691.0,
+          1237.0
+        ],
+        [
+          1695.0,
+          1241.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1117.0,
+          459.0
+        ],
+        [
+          1121.0,
+          462.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          34.0,
+          1611.0
+        ],
+        [
+          36.0,
+          1613.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          494.0,
+          802.0
+        ],
+        [
+          497.0,
+          805.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1018.0,
+          402.0
+        ],
+        [
+          1022.0,
+          405.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1354.0,
+          1813.0
+        ],
+        [
+          1356.0,
+          1815.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          425.0,
+          1815.0
+        ],
+        [
+          428.0,
+          1817.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          467.0,
+          1794.0
+        ],
+        [
+          469.0,
+          1796.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          888.0,
+          358.0
+        ],
+        [
+          891.0,
+          361.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1267.0,
+          623.0
+        ],
+        [
+          1269.0,
+          626.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          483.0,
+          1798.0
+        ],
+        [
+          486.0,
+          1800.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          25.0,
+          1523.0
+        ],
+        [
+          28.0,
+          1525.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          120.0,
+          1535.0
+        ],
+        [
+          124.0,
+          1539.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1770.0,
+          1103.0
+        ],
+        [
+          1774.0,
+          1107.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          666.2,
+          148.6
+        ],
+        [
+          672.8,
+          156.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1045.2,
+          505.4
+        ],
+        [
+          1049.0,
+          509.99999999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          980.0,
+          417.0
+        ],
+        [
+          983.0,
+          421.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          652.0,
+          925.0
+        ],
+        [
+          655.0,
+          928.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          906.0,
+          304.0
+        ],
+        [
+          909.0,
+          308.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1099.0,
+          639.0
+        ],
+        [
+          1101.0,
+          642.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          682.0,
+          159.0
+        ],
+        [
+          685.0,
+          162.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1142.6,
+          593.8
+        ],
+        [
+          1147.0,
+          600.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1391.0,
+          1844.0
+        ],
+        [
+          1395.0,
+          1848.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1035.0,
+          374.0
+        ],
+        [
+          1037.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          115.0,
+          1255.0
+        ],
+        [
+          118.0,
+          1259.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          899.4,
+          361.6
+        ],
+        [
+          903.0,
+          367.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          600.0,
+          108.0
+        ],
+        [
+          603.0,
+          111.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1134.0,
+          603.0
+        ],
+        [
+          1138.0,
+          606.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1294.0,
+          679.0
+        ],
+        [
+          1298.0,
+          682.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          429.0,
+          1782.0
+        ],
+        [
+          432.0,
+          1786.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          581.8,
+          919.2
+        ],
+        [
+          587.6,
+          924.8
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1800.0,
+          980.0
+        ],
+        [
+          1804.0,
+          984.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1634.0,
+          1355.0
+        ],
+        [
+          1638.0,
+          1359.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          115.6,
+          1219.4
+        ],
+        [
+          118.4,
+          1223.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1309.0,
+          1813.0
+        ],
+        [
+          1312.0,
+          1817.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          503.99999999999994,
+          1812.0
+        ],
+        [
+          506.99999999999994,
+          1814.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1683.0,
+          1208.0
+        ],
+        [
+          1687.0,
+          1212.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          457.0,
+          1768.0
+        ],
+        [
+          460.0,
+          1770.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          1754.4,
+          1285.0
+        ],
+        [
+          1757.0,
+          1289.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          868.0,
+          345.0
+        ],
+        [
+          871.0,
+          348.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          500.99999999999994,
+          815.0
+        ],
+        [
+          503.99999999999994,
+          819.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          4.0,
+          1583.0
+        ],
+        [
+          7.0,
+          1587.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          611.0,
+          152.0
+        ],
+        [
+          615.2,
+          156.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          147.0,
+          1228.0
+        ],
+        [
+          151.0,
+          1232.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          631.0,
+          161.0
+        ],
+        [
+          634.0,
+          164.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          107.0,
+          1540.0
+        ],
+        [
+          110.0,
+          1544.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "particle",
+      "points": [
+        [
+          912.2,
+          315.0
+        ],
+        [
+          916.0,
+          319.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "W0081F0003T0004Z000C3.tif",
+  "imageData": "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",
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}
