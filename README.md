@@ -35,7 +35,7 @@ python detectpbody.py
 ```
 The Imagej macro used for threshold batch processing in this paper could be found at ['\preprocessing\preprocessing.ijm'](https://github.com/todhc22skjicea/PB-scope-detection/tree/main/pb_detection/preprocessing)
 
-## Performace
+## Performance
 ![Perfomance of PB-scope-detection](https://github.com/todhc22skjicea/PB-scope-detection/blob/main/pb_detection/quantification_testing/PBdetection.png)
 
 The result of this detection method acheived >95% agreement with manual annotations labeled by two experts working in the related fields.
