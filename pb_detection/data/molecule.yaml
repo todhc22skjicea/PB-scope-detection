@@ -1,0 +1,12 @@
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: /home/sdx/yolov7-main/dataset3/train/images  # images
+val: /home/sdx/yolov7-main/dataset3/val/images  # images
+test: ./molecule/test.txt  # 
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'particle']
