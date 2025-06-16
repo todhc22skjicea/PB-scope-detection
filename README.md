@@ -6,9 +6,13 @@
 
 PB-scope-detection is a target detection project based on YOLOv7, focusing on the analysis of p-body images. 
 Before starting, ensure that you have the following dependencies installed:
+
 Python 3.8 or higher
+
 PyTorch 1.7 or higher
+
 CUDA (if using a GPU)
+
 Other necessary dependencies (such as OpenCV, NumPy, etc.)
 See [Official YOLOv7](https://github.com/WongKinYiu/yolov7)
 
