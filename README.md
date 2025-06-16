@@ -44,7 +44,16 @@ The raw images label and detection result can be accessed [quantification_testin
 ## Citation
 If you use this repository, please cite:
 ```
-@inproceedings{
+@article {Shen2025.06.14.659731,
+	author = {Shen, Dexin and Zhu, Qionghua and Pang, Xiquan and Yang, Xian and Pan, Dongzhen and Zhang, Mengyang and Li, Yanping and Sun, Zhiyuan and Fang, Liang and Chen, Wei and Tsuboi, Tatsuhisa},
+	title = {PB-scope: Contrastive learning of dynamic processing body formation reveals undefined mechanisms of approved compounds},
+	elocation-id = {2025.06.14.659731},
+	year = {2025},
+	doi = {10.1101/2025.06.14.659731},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2025/06/15/2025.06.14.659731},
+	eprint = {https://www.biorxiv.org/content/early/2025/06/15/2025.06.14.659731.full.pdf},
+	journal = {bioRxiv}
 }
 ```
 
